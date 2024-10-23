@@ -50,7 +50,7 @@ npm (Node package manager)
 
 **BASE_URL_API="https://api.openweathermap.org/data/2.5/weather?";**
 
-**BASE_URL="http://localhost:8080/api/temperature"**    **it will connect to backend server created**
+**Environment Variable :-**   **BASE_URL="http://localhost:8080/api/temperature"** 
 
 **npm start**
 
